@@ -24,7 +24,7 @@
 </td>
 <td align="center" valign="middle" width="190">
 
-<img src="photo.jpg" alt="Daria Nikiporets" width="170"/>
+<img src="photo_2026-04-20_23-08-24.jpg" alt="Daria Nikiporets" width="170"/>
 
 </td>
 </tr>
