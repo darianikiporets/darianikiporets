@@ -1,31 +1,27 @@
 <!-- Репозиторий должен называться darianikiporets (как твой GitHub username) и быть публичным -->
-<!-- Фото: загрузи в этот же репозиторий файл photo.jpg (лучше квадратное, лицо по центру) -->
+<!-- В репозитории рядом с README должны лежать: banner.svg и photo.jpg -->
 
-<div align="center">
+<img src="banner.svg" alt="Daria Nikiporets" width="100%">
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=170&text=Daria%20Nikiporets&fontColor=ffffff&fontSize=52&desc=Data%20Science%20%26%20AI%20Student%20%C2%B7%20Aspiring%20Data%20Scientist&descSize=18&descAlignY=72" alt="Daria Nikiporets" width="100%"/> <table> <tr> <td align="center" valign="middle">
-```
-> python · sql · matlab · statistics
-> seeking a data science / AI / software internship
-```
+<img src="photo.jpg" alt="Daria Nikiporets" width="170" align="right">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-8B1A1A?style=for-the-badge)](https://www.linkedin.com/in/daria-nikiporets-19b3a2402/)
-[![Email](https://img.shields.io/badge/EMAIL-8B1A1A?style=for-the-badge)](mailto:darianikiporetsugc@gmail.com)
+<p>
+<code>&gt; python · sql · matlab · statistics</code><br>
+<code>&gt; seeking a data science / AI / software internship</code>
+</p>
 
-![TU Dublin](https://img.shields.io/badge/TU_DUBLIN-F9B6D2?style=flat-square)
-![degree](https://img.shields.io/badge/BSC_DATA_SCIENCE_%26_AI-1a1a1a?style=flat-square)
-![seeking](https://img.shields.io/badge/OPEN_TO_INTERNSHIPS-F9B6D2?style=flat-square)
+<p>
+<a href="https://www.linkedin.com/in/daria-nikiporets-19b3a2402/"><img src="https://img.shields.io/badge/LINKEDIN-8B1A1A?style=for-the-badge" alt="LinkedIn"></a>
+<a href="mailto:darianikiporetsugc@gmail.com"><img src="https://img.shields.io/badge/EMAIL-8B1A1A?style=for-the-badge" alt="Email"></a>
+</p>
 
-</td>
-<td align="center" valign="middle" width="190">
+<p>
+<img src="https://img.shields.io/badge/TU_DUBLIN-F9B6D2?style=flat-square" alt="TU Dublin">
+<img src="https://img.shields.io/badge/BSC_DATA_SCIENCE_%26_AI-1a1a1a?style=flat-square" alt="BSc Data Science and AI">
+<img src="https://img.shields.io/badge/OPEN_TO_INTERNSHIPS-F9B6D2?style=flat-square" alt="Open to internships">
+</p>
 
-<img src="photo_2026-04-20_23-08-24.jpg" alt="Daria Nikiporets" width="170"/>
-
-</td>
-</tr>
-</table>
-
-</div>
+<br clear="right">
 
 ## 🎧 about
 
