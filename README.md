@@ -3,7 +3,7 @@
 
 <img src="banner.svg" alt="Daria Nikiporets" width="100%">
 
-<img src="photo.jpg" alt="Daria Nikiporets" width="170" align="right">
+<img src="photo_2026-04-20_23-08-24.jpg" alt="Daria Nikiporets" width="170" align="right">
 
 <p>
 <code>&gt; python · sql · matlab · statistics</code><br>
