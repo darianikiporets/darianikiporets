@@ -11,14 +11,14 @@
 </p>
 
 <p>
-<a href="https://www.linkedin.com/in/daria-nikiporets-19b3a2402/"><img src="https://img.shields.io/badge/LINKEDIN-8B1A1A?style=for-the-badge" alt="LinkedIn"></a>
-<a href="mailto:darianikiporetsugc@gmail.com"><img src="https://img.shields.io/badge/EMAIL-8B1A1A?style=for-the-badge" alt="Email"></a>
+<a href="https://www.linkedin.com/in/daria-nikiporets-19b3a2402/"><img src="https://img.shields.io/badge/LINKEDIN-5B3AA8?style=for-the-badge" alt="LinkedIn"></a>
+<a href="mailto:darianikiporetsugc@gmail.com"><img src="https://img.shields.io/badge/EMAIL-5B3AA8?style=for-the-badge" alt="Email"></a>
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/TU_DUBLIN-F9B6D2?style=flat-square" alt="TU Dublin">
-<img src="https://img.shields.io/badge/BSC_DATA_SCIENCE_%26_AI-1a1a1a?style=flat-square" alt="BSc Data Science and AI">
-<img src="https://img.shields.io/badge/OPEN_TO_INTERNSHIPS-F9B6D2?style=flat-square" alt="Open to internships">
+<img src="https://img.shields.io/badge/TU_DUBLIN-C8A2FF?style=flat-square" alt="TU Dublin">
+<img src="https://img.shields.io/badge/BSC_DATA_SCIENCE_%26_AI-1b1630?style=flat-square" alt="BSc Data Science and AI">
+<img src="https://img.shields.io/badge/OPEN_TO_INTERNSHIPS-C8A2FF?style=flat-square" alt="Open to internships">
 </p>
 
 <br clear="right">
