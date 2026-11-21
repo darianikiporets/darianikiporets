@@ -32,7 +32,6 @@ daria = {
     "studying":    "BSc Data Science & AI @ TU Dublin (2nd year)",
     "core":        ["Python", "SQL", "MATLAB", "Statistics"],
     "math":        "linear algebra, calculus, statistical reasoning",
-    "community":   "Social Events Officer @ TU Dublin CS Society",
     "outside_code": ["dance & choreography", "music"],
     "rule":        "turn real life into structured data, then ask good questions.",
     "looking_for": "Data Science / AI / Software Development internship",
@@ -65,7 +64,6 @@ A second-year Data Science & AI student with a foundation in mathematics, progra
 
 | Role | What I did |
 |---|---|
-| **Till Operator / Retail Assistant**<br><sub>Aviva Stadium · Aug 2026 – present</sub> | Customer transactions, cash and card payments and customer service at busy events, while keeping accuracy under pressure. Hospitality trained. |
 | **Social Events Officer**<br><sub>TU Dublin Computer Science Society · 2025 – 2026</sub> | Organised social events for students, coordinated with the team and helped grow the CS community. |
 
 ## 🎓 education
