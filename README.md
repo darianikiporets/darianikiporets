@@ -1,66 +1,82 @@
-<!-- Положи этот файл в репозиторий с именем = твой GitHub username (публичный) -->
-<!-- Пример: github.com/YourUsername/YourUsername/README.md -->
+<!-- Репозиторий должен называться так же, как твой GitHub username, и быть публичным -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=170&text=Your%20Name&fontColor=ffffff&fontSize=52&desc=AI%20%2B%20Data%20Engineer%20%C2%B7%20your%20tagline&descSize=18&descAlignY=72" alt="banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=170&text=Daria%20Nikiporets&fontColor=ffffff&fontSize=52&desc=Data%20Science%20%26%20AI%20Student%20%C2%B7%20TU%20Dublin&descSize=18&descAlignY=72" alt="Daria Nikiporets" width="100%"/>
 
 ```
-> your tagline here
+> python · sql · matlab · looking for a data science / AI internship
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-8B1A1A?style=for-the-badge)](https://linkedin.com/in/your-handle)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-8B1A1A?style=for-the-badge)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/EMAIL-8B1A1A?style=for-the-badge)](mailto:you@example.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-8B1A1A?style=for-the-badge)](https://www.linkedin.com/in/daria-nikiporets-19b3a2402/)
+[![Email](https://img.shields.io/badge/EMAIL-8B1A1A?style=for-the-badge)](mailto:darianikiporetsugc@gmail.com)
 
-![grade](https://img.shields.io/badge/9%2F10-1a1a1a?style=flat-square)
-![cum laude](https://img.shields.io/badge/CUM_LAUDE-F9B6D2?style=flat-square)
-![prev](https://img.shields.io/badge/EX--BIG_4-1a1a1a?style=flat-square)
-![company](https://img.shields.io/badge/DELOITTE-F9B6D2?style=flat-square)
-![metric](https://img.shields.io/badge/2.65X-1a1a1a?style=flat-square)
-![metric2](https://img.shields.io/badge/BEAT_LLM_PROMPTING-F9B6D2?style=flat-square)
+![TU Dublin](https://img.shields.io/badge/TU_DUBLIN-F9B6D2?style=flat-square)
+![degree](https://img.shields.io/badge/BSC_DATA_SCIENCE_%26_AI-1a1a1a?style=flat-square)
+![seeking](https://img.shields.io/badge/OPEN_TO_INTERNSHIPS-F9B6D2?style=flat-square)
 
 </div>
 
 ## 🎧 about
 
 ```python
-you = {
-    "does":       "AI + data engineering, from notebook to deployed API",
-    "based":      "the Netherlands (from Sofia)",
-    "was":        "MLOps engineer, AI & Data @ Deloitte (ex-Big 4)",
-    "degree":     "Applied Data Science & AI, cum laude 9/10",
-    "studying":   "MSc Data-Driven Business, The Hague University",
-    "learning":   "red teaming LLMs: jailbreaks, prompt injection",
-    "speaks":     ["Bulgarian", "English C1", "German C1", "Dutch (learning)"],
-    "rule":       "test which model actually wins, don't assume the biggest one does.",
-    "pronouns":   "she/her",
+daria = {
+    "does":        "data science, AI, and software development",
+    "based":       "Dublin, Ireland",
+    "studying":    "BSc Data Science & AI @ TU Dublin",
+    "core":        ["Python", "SQL", "MATLAB", "Statistics"],
+    "also":        ["C", "JavaScript", "PHP", "HTML/CSS", "MySQL", "SQLite"],
+    "math":        "linear algebra, calculus, statistical reasoning",
+    "community":   "CS Society: event organisation and coordination",
+    "looking_for": "Data Science / AI / Software Development internship",
+    "contact":     "darianikiporetsugc@gmail.com",
+    "pronouns":    "she/her",
 }
 ```
 
-<details>
-<summary>🌱 how I got here. click for the short version</summary>
+## 🛠 skills
 
-<br>
+**Programming & data**
 
-Write 3-5 sentences here: where you started, the pivot that mattered, what you're doing now.
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-1a1a1a?style=flat-square)
+![C](https://img.shields.io/badge/C-1a1a1a?style=flat-square&logo=c&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-1a1a1a?style=flat-square)
 
-</details>
+**Web & databases**
 
-## 💼 experience
+![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-1a1a1a?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-1a1a1a?style=flat-square&logo=sqlite&logoColor=white)
 
-| Role | What I did |
-|---|---|
-| **MLOps Engineer, AI & Data**<br><sub>Deloitte, Sofia · 2025 · ex-Big 4</sub> | Automated Python pipeline + dashboards that benchmark search relevance of Google Vertex AI Search vs Elastic for a European e-commerce client. Replaced manual testing. |
-| **AI Engineer Intern**<br><sub>De Kok Staalbouw, Netherlands · 2025</sub> | RAG assistant proof of concept for a 50+ person company, on its own infrastructure. Excel data extraction accuracy ~20% → 85.7%. |
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=white)
+
+**Data science:** data cleaning · exploratory data analysis · data visualization · statistical analysis · data interpretation
+
+<!--
+============================================================
+РАСКОММЕНТИРУЙ И ЗАПОЛНИ, КОГДА БУДУТ ГОТОВЫ ПРОЕКТЫ / ОПЫТ
+(удали строки "<!--" и "-->" вокруг блока)
+============================================================
 
 ## 🚀 projects
 
 | | |
 |---|---|
-| ☁️ **[CloudPulse](https://github.com/you/cloudpulse)**<br><sub>bachelor's thesis · live demo</sub><br>Rates how severe a cloud outage is, explains why with SHAP and suggests fixes. The live API matches offline results exactly.<br><br>`3.61x beat LLM prompting` `3 of 5 judges rated it better`<br><br>`Python` `XGBoost` `SHAP` `FastAPI` `React` `Docker` `Claude API`<br><br>[![demo](https://img.shields.io/badge/TRY_THE_DEMO-8B0000?style=for-the-badge)](https://your-demo-link.com) | 🩺 **[EarlyRA Detect](https://github.com/you/earlyra)**<br><sub>graduation project</sub><br>Decision support prototype that helps primary care doctors spot rheumatoid arthritis risk early, with an explanation for every prediction.<br><br>`10,000+ patient records`<br><br>`Python` `Streamlit` `SHAP` |
-| 🌍 **[SDG Indicators Dashboard](https://github.com/you/sdg-dashboard)**<br><sub>university project</sub><br>One sentence about what it does and what it showed. | 💬 **[Conversation Orchestrator](https://github.com/you/orchestrator)**<br><sub>hackathon · team of four</sub><br>One sentence about what it does. |
+| 📊 **[Project name](https://github.com/YOUR-USERNAME/project-1)**<br><sub>university project</sub><br>One sentence: what problem it solves and what you found.<br><br>`Python` `pandas` `matplotlib` | 🗄 **[Project name](https://github.com/YOUR-USERNAME/project-2)**<br><sub>university project</sub><br>One sentence: what it does.<br><br>`PHP` `MySQL` `HTML/CSS` |
 
-## 🛠 stack
+## 💼 experience & activities
 
-`Python` `SQL` `scikit-learn` `PyTorch` `FastAPI` `Docker` `Azure` `GCP` `Git`
+| Role | What I did |
+|---|---|
+| **Your job title**<br><sub>Company · dates</sub> | What you did and one concrete result. |
+| **CS Society, your role**<br><sub>TU Dublin · dates</sub> | Organised social events for students and coordinated with the team. |
+
+-->
