@@ -4,10 +4,6 @@
 <div align="center">
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=170&text=Daria%20Nikiporets&fontColor=ffffff&fontSize=52&desc=Data%20Science%20%26%20AI%20Student%20%C2%B7%20Aspiring%20Data%20Scientist&descSize=18&descAlignY=72" alt="Daria Nikiporets" width="100%"/> <table> <tr> <td align="center" valign="middle">
-<table>
-<tr>
-<td align="center" valign="middle">
-
 ```
 > python · sql · matlab · statistics
 > seeking a data science / AI / software internship
